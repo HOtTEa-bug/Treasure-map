@@ -1,6 +1,7 @@
 # Treasure-map
 
-Instructions: 
+Instructions:
+
 A program which will mark a spot with an 💰.
 
 In the starting code, you will find a variable called map.
